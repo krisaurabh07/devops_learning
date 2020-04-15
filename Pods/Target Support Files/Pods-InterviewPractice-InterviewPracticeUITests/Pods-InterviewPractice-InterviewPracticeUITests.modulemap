@@ -1,0 +1,6 @@
+framework module Pods_InterviewPractice_InterviewPracticeUITests {
+  umbrella header "Pods-InterviewPractice-InterviewPracticeUITests-umbrella.h"
+
+  export *
+  module * { export * }
+}
